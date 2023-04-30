@@ -1,1 +1,3 @@
+getgenv().Key = "PlsSubToAsorapip"
+getgenv().id = "MaruHello9world"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Asorapip/Heema/main/script.txt",true))()
